@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace>Unity.Netcode.Editor</RootNamespace>
-    <ProjectGuid>{EBF86244-A92D-445D-FF7C-5E47961FE0ED}</ProjectGuid>
+    <ProjectGuid>{1BA732A7-40DD-848C-B0B7-9F4B4C089825}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Unity.Netcode.Editor</AssemblyName>
@@ -1050,11 +1050,11 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Unity.Netcode.Runtime.csproj">
-      <Project>{B79707D7-1A2E-0531-6743-9628E28FEDF7}</Project>
+      <Project>{7C801D9F-2BE6-1903-BC4B-EF8E601F0CB4}</Project>
       <Name>Unity.Netcode.Runtime</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Netcode.Components.csproj">
-      <Project>{310DCDFD-EFFC-40C5-C43A-E8D3A5359BD7}</Project>
+      <Project>{4ABD8DF4-FF05-58FB-DA9C-3EFCC14B7521}</Project>
       <Name>Unity.Netcode.Components</Name>
     </ProjectReference>
   </ItemGroup>

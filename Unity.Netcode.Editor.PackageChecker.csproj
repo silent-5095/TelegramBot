@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace>Unity.Netcode.Editor.PackageChecker</RootNamespace>
-    <ProjectGuid>{2B248FB7-AA8F-2EAC-CA39-177D502F2ECD}</ProjectGuid>
+    <ProjectGuid>{64C9853C-8DE6-A13A-FCEE-B8C581B70C15}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Unity.Netcode.Editor.PackageChecker</AssemblyName>

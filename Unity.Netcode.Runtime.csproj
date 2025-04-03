@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace>Unity.Netcode</RootNamespace>
-    <ProjectGuid>{B79707D7-1A2E-0531-6743-9628E28FEDF7}</ProjectGuid>
+    <ProjectGuid>{7C801D9F-2BE6-1903-BC4B-EF8E601F0CB4}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Unity.Netcode.Runtime</AssemblyName>

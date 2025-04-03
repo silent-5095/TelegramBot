@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace>Unity.Netcode.TestHelpers.Runtime</RootNamespace>
-    <ProjectGuid>{24D2FA3E-1C88-71B1-BC6F-BEF0D87C30E2}</ProjectGuid>
+    <ProjectGuid>{0C06BD2A-97BF-01F0-B3E1-0AC57E471812}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Unity.Netcode.TestHelpers.Runtime</AssemblyName>
@@ -967,7 +967,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Unity.Netcode.Runtime.csproj">
-      <Project>{B79707D7-1A2E-0531-6743-9628E28FEDF7}</Project>
+      <Project>{7C801D9F-2BE6-1903-BC4B-EF8E601F0CB4}</Project>
       <Name>Unity.Netcode.Runtime</Name>
     </ProjectReference>
   </ItemGroup>
